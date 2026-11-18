@@ -1,4 +1,4 @@
-# The Pressure Board · SupeRR Selector S2 (Round 1)
+# The Pressure Board · SupeRR Selector S2
 
 Interactive dashboard of the most reliable IPL/T20I batters and bowlers under pressure.
 It is a single static page (`index.html`): plain HTML, CSS and JavaScript, with the data embedded.
@@ -14,8 +14,8 @@ Double-click `index.html`.
    git add .
    git commit -m "Pressure Board dashboard"
    git branch -M main
-   git remote add origin https://github.com/tushar-sharma001/pressure-board.git
+   git remote add origin https://github.com/tushar-sharma001/SuperRR_Pressure-Board-Dashboard.git
    git push -u origin main
 3. On GitHub: Settings -> Pages -> Build and deployment -> Source: **GitHub Actions**.
 4. Open the Actions tab; when "Deploy dashboard to GitHub Pages" turns green, the site is live at
-   https://tushar-sharma001.github.io/pressure-board/
+   https://github.com/tushar-sharma001/SuperRR_Pressure-Board-Dashboard/
